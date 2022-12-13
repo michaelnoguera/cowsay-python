@@ -1,3 +1,11 @@
+> **Note**
+> This is a custom branch of cowsay-python created to expose the speech-bubble creating functions. This is not the real cowsay-python, and changes made here are not being suggested as changes to the original library.
+
+### Installation:
+1. `python3 -m build` to build package
+2. In our case, since we are using the python interpreter bundled with SageMath, install with `sage --python -m pip install dist/cowsay-5.0.tar.gz`
+
+---
 
 [![cowsay](https://github.com/VaasuDevanS/cowsay-python/actions/workflows/cowsay.yaml/badge.svg?branch=main)](https://github.com/VaasuDevanS/cowsay-python/actions/workflows/cowsay.yaml)
 [![PyPI version](https://badge.fury.io/py/Cowsay.svg)](https://badge.fury.io/py/Cowsay)
